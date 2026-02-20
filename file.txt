@@ -1,1 +1,3 @@
 Hello Git
+New line added
+Login feature added
